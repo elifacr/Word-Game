@@ -1,0 +1,17 @@
+C:\Users\Elif\Desktop\WordGame\WordGame\bin\Debug\net8.0-windows\WordGame.exe
+C:\Users\Elif\Desktop\WordGame\WordGame\bin\Debug\net8.0-windows\WordGame.deps.json
+C:\Users\Elif\Desktop\WordGame\WordGame\bin\Debug\net8.0-windows\WordGame.runtimeconfig.json
+C:\Users\Elif\Desktop\WordGame\WordGame\bin\Debug\net8.0-windows\WordGame.dll
+C:\Users\Elif\Desktop\WordGame\WordGame\bin\Debug\net8.0-windows\WordGame.pdb
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.Form1.resources
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.csproj.GenerateResource.cache
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.AssemblyInfoInputs.cache
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.AssemblyInfo.cs
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.dll
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\refint\WordGame.dll
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.pdb
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.genruntimeconfig.cache
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\ref\WordGame.dll
+C:\Users\Elif\Desktop\WordGame\WordGame\obj\Debug\net8.0-windows\WordGame.Properties.Resources.resources

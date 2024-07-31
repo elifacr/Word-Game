@@ -1,0 +1,20 @@
+Initialize;Başlatmak;Bitirmek;Silmek;Değiştirmek;1
+Publish;Saklamak;Yıkmak;Yayımlamak;Unutmak;3
+Repository;Araştırma;Depo;Üretim;İletişim;2
+Enterprise;Girişim;Ürün;Bölüm;Personel;1
+Branch;Yaprak;Barış;Dal;Kaynak;3
+External;Harici;İçsel;Ortak;Bireysel;1
+Summary;Detay;Tartışma;Hikaye;Özet;4
+Push;Çekmek;Durdurmak;İtmek;Dönmek;3
+Origin;Sonuç;Köken;Hedef;Orta;2
+Commit;Kaydetmek;Unutmak;Değiştirmek;Araştırma;1
+Remote;Yakın;Refleks;Ortak;Uzaktan;4
+Toolbar;Araç Çubuğu;Pencere;Dosya;Program;1
+Fetch;Eylem;Yanlış;Unutmak;Getirmek;4
+Presence;Hediye;Varlık;Hareket;Fikir;2
+Abbreviate;Uzatmak;Açıklamak;Kısaltmak;Değiştirmek;3
+Abnormal;Olağan;Doğal;Anormal;Harika;3
+Termination;İşlem;Gelişim;Devam;Sonlandırma;4
+Abort;Devam Ettirmek;Durdurmak;Tamamlamak;Başlatmak;2
+Sequence;Dizi;Karışıklık;Tekrar;Seçenek;1
+Absolute;Kısmi;Mutlak;Yaklaşık;Miktar;2
